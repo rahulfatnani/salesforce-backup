@@ -24,7 +24,7 @@ jobs:
 
       - name: Run Backup Script
         run: |
-          python backup_script.py
+          python salesforce_backup.py
 
       - name: Upload backup to Salesforce
         run: |
