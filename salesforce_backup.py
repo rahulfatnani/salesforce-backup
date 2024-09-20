@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1w-OnUhvkApypxFjuvUA9blsIbQ2IzJrB
 """
 
-pip install simple_salesforce
-
 # this is the FINAL CODE
 
 import json
